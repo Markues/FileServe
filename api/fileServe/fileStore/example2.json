@@ -1,0 +1,11 @@
+[{
+    "description": "Third example of file to serve via Node",
+    "title": "Example 3",
+    "url": "http://www.example3.com",
+    "type": "JSON"
+}, {
+    "description": "Fourth example of file to serve via Node",
+    "title": "Example 4",
+    "url": "http://www.example4.com",
+    "type": "JSON"
+}]

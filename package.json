@@ -1,0 +1,23 @@
+{
+  "name": "restul-json-file-serve",
+  "version": "0.5.0",
+  "description": "Node API for RESTful JSON file serving",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jeff Farris <jeff.markues@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "email": "jeff.markues@gmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0",
+    "morgan": "^1.5.1",
+    "yargs": "^1.3.3"
+  }
+}
